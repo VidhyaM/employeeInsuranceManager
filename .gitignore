@@ -1,0 +1,14 @@
+# Project Specifics #
+#####################
+.project
+.settings/*
+.build
+.idea
+.openshift
+
+# OS generated files #
+######################
+.DS_Store*
+thumbs.db
+Icon?
+Thumbs.db
